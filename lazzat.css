@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&display=swap');
+
+body {
+	font-family: 'Comfortaa', cursive;
+}
+
+.hero {
+	text-align: center;
+}
+
+.hero.p.h1 {
+	font-weight: bold;
+}
+
+.navv {
+	border-top: 1px solid lightgrey;
+	border-bottom: 2px solid lightgrey;  
+    text-align:center;
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	padding-right: 10px;
+	font-weight: 3px;
+	padding-left: auto;
+	padding-right: auto;
+}
+
+.navitem {
+	color: black;
+	padding: 10px 30px;
+}
+
+.navitem:hover {
+	background: lightgrey;
+	text-decoration: none;
+}
+
+.types {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 5px 7px;
+}
+
+.taomlar {
+	background: darkorange;
+}
+
+.taomlar:hover {
+    background: lightsalmon;
+}
+
+.ichimlik {
+	background: lightskyblue;
+}
+
+.ichimlik:hover {
+    background: lightblue;
+}
+
+.desert {
+	background: coral;
+}
+
+.desert:hover {
+	background: lightcoral;
+}
+
+.salat {
+	background: lawngreen;
+}
+
+.salat:hover {
+	background: lightgreen;
+}
+
+.barcha {
+	font-size: 18px;
+	color: coral;
+	text-decoration: none;
+	border: 2px solid tomato;
+	padding: 5px 20px;
+}
+
+.barcha:hover {
+	background: tomato;
+	color: white; 
+}
+
+.bosh:hover {
+	background-color: grey;
+}
+
+.bolim:hover {
+	background: grey;
+}
+
+.bolim {
+	text-decoration: none;
+	text-align: center;
+}
+
+.kfc {
+	color: black;
+	font-size: 20px;
+    font-weight:bolder;
+}
+
+a {
+	text-decoration: none;
+}
+
+.kfc:hover {
+	color:tomato;
+}
+
+.footer {
+	text-align: center;
+	padding: 5px 10px;
+	border: 1px;
+}
+
+.menyu {
+	margin: auto;
+	padding: auto;
+	width: 360px;
+	display: inline-block;
+	font-size: 14px;
+	vertical-align: middle;
+}
+
+.main {
+	width: 1080px;
+	font-size: 0;
+	padding: auto;
+	margin:20px auto;
+}
+.main img {
+	padding-right: auto;
+	padding-left: auto;
+}
